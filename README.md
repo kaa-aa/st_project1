@@ -67,4 +67,4 @@
 code/main.py 실행. 필요한 라이브러리는 requirements.txt.
 
 ## 배포(선택)
-스트림릿 주소: https://yeon-001-kimono-main-jln7yh.streamlit.app/
+스트림릿 주소: https://tnrbdckxsh24x6kgrg5hvx.streamlit.app/
